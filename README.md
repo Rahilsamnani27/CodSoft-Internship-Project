@@ -1,2 +1,2 @@
-CodSoft-Internship-Projects
+CodSoft Internship projects
 
